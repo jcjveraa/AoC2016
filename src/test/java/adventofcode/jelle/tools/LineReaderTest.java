@@ -1,4 +1,4 @@
-package adventofcode.jelle;
+package adventofcode.jelle.tools;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package adventofcode.jelle;
+package adventofcode.jelle.tools;
 
 import java.io.IOException;
 import java.nio.file.Files;
